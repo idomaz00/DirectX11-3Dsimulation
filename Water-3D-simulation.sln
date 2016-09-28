@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Water-3D-simulation", "Water-3D-simulation\Water-3D-simulation.vcxproj", "{559582C4-ECD4-4164-8067-70BC6B710863}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "..\Engine\Engine.vcxproj", "{79092E69-BE99-439E-B713-DAA85CC36D6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -33,6 +35,18 @@ Global
 		{559582C4-ECD4-4164-8067-70BC6B710863}.Release|x86.ActiveCfg = Release|Win32
 		{559582C4-ECD4-4164-8067-70BC6B710863}.Release|x86.Build.0 = Release|Win32
 		{559582C4-ECD4-4164-8067-70BC6B710863}.Release|x86.Deploy.0 = Release|Win32
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Debug|ARM.Build.0 = Debug|ARM
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Debug|x64.ActiveCfg = Debug|x64
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Debug|x64.Build.0 = Debug|x64
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Debug|x86.ActiveCfg = Debug|Win32
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Debug|x86.Build.0 = Debug|Win32
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Release|ARM.ActiveCfg = Release|ARM
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Release|ARM.Build.0 = Release|ARM
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Release|x64.ActiveCfg = Release|x64
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Release|x64.Build.0 = Release|x64
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Release|x86.ActiveCfg = Release|Win32
+		{79092E69-BE99-439E-B713-DAA85CC36D6D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

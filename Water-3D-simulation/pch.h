@@ -1,14 +1,15 @@
 ﻿#pragma once
 
-#include <wrl.h>
-#include <wrl/client.h>
-#include <d3d11_2.h>
-#include <d2d1_2.h>
-#include <d2d1effects_1.h>
-#include <dwrite_2.h>
-#include <wincodec.h>
-#include <DirectXColors.h>
-#include <DirectXMath.h>
-#include <memory>
-#include <agile.h>
-#include <concrt.h>
+//Vanity includes
+#include "C:\Users\Izabela\Documents\Projekti\3DSimulacije\Engine\pch.h"
+
+#include "C:\Users\Izabela\Documents\Projekti\3DSimulacije\Engine\Core\App.h"
+#include "C:\Users\Izabela\Documents\Projekti\3DSimulacije\Engine\Core\Application Factory.h"
+#include "C:\Users\Izabela\Documents\Projekti\3DSimulacije\Engine\Core\Engine Main.h"
+
+#include "C:\Users\Izabela\Documents\Projekti\3DSimulacije\Engine\Core\Common\DirectXHelper.h"
+#include "C:\Users\Izabela\Documents\Projekti\3DSimulacije\Engine\Core\Common\DeviceResources.h"
+#include "C:\Users\Izabela\Documents\Projekti\3DSimulacije\Engine\Core\Common\StepTimer.h"
+
+#include "C:\Users\Izabela\Documents\Projekti\3DSimulacije\Engine\Core\Content\RendererBase3D.h"
+#include "C:\Users\Izabela\Documents\Projekti\3DSimulacije\Engine\Core\Content\SampleFpsTextRenderer.h"
